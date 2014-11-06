@@ -1,0 +1,7 @@
+[user]
+	name = Manuel Morini
+	email = morinimanuel@gmail.com
+[http]
+	proxy = 
+[https]
+	proxy = 
