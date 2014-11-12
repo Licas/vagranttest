@@ -5,6 +5,6 @@ zypper addlock kernel*
 zypper --non-interactive update 
 
 # Tools
-zypper --non-interactive install nano git unzip screen nc telnet
+zypper --non-interactive install nano git unzip screen telnet
 
 zypper removelock kernel*
